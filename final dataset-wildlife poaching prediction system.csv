@@ -1,0 +1,201 @@
+animal_id,latitude,longitude,location,timestamp,poaching_incident,temperature,vegetation_index,terrain_type,weather,risk_level
+A013,22.888013,79.59696,Bharatpur Park,01-09-2025 6.00,1,36.4,0.52,Savanna,Cloudy,Medium
+A026,7.515784,36.216768,Dudhwa Forest,01-09-2025 6.30,1,21.7,0.43,Grassland,Windy,Low
+A007,13.914198,88.423248,Kruger Reserve,01-09-2025 7.00,0,25.7,0.4,Grassland,Cloudy,High
+A027,-8.922083,66.042268,Masai Mara,01-09-2025 7.30,0,27.8,0.41,Wetland,Cloudy,High
+A009,20.325764,64.010643,Bharatpur Park,01-09-2025 8.00,0,33.7,0.81,Bushland,Windy,Medium
+A005,-19.705692,45.489337,Kruger Reserve,01-09-2025 8.30,1,28.9,0.72,Woodland,Cloudy,Low
+A027,10.012366,58.682528,Kruger Reserve,01-09-2025 9.00,1,30.8,0.61,Grassland,Foggy,Low
+A005,-16.559935,66.443944,Dudhwa Forest,01-09-2025 9.30,0,22.4,0.61,Savanna,Cloudy,Low
+A019,-9.973335,40.257759,Bharatpur Park,01-09-2025 10.00,0,19,0.69,Wetland,Cloudy,Low
+A028,-0.245761,45.675571,Serengeti,01-09-2025 10.30,0,26.4,0.36,Savanna,Windy,Low
+A010,-11.271036,41.842842,Bharatpur Park,01-09-2025 11.00,0,31.5,0.37,Savanna,Windy,Medium
+A011,17.212709,33.671736,Masai Mara,01-09-2025 11.30,1,24.8,0.46,Woodland,Sunny,High
+A015,-29.17497,27.158445,Kruger Reserve,01-09-2025 12.00,0,34.1,0.36,Bushland,Sunny,Medium
+A004,0.015463,51.547137,Kaziranga,01-09-2025 12.30,1,36.5,0.86,Bushland,Sunny,Medium
+A013,-16.436692,77.131645,Bharatpur Park,01-09-2025 13.00,0,24.1,0.52,Bushland,Windy,Medium
+A013,26.264063,74.577425,Sanjay Gandhi NP,01-09-2025 13.30,0,36.5,0.69,Wetland,Windy,Medium
+A023,-11.431433,55.0343,Kruger Reserve,01-09-2025 14.00,0,21.8,0.79,Wetland,Foggy,High
+A001,0.940942,64.507224,Periyar Reserve,01-09-2025 14.30,0,28.4,0.33,Grassland,Rainy,Low
+A002,-21.880783,70.957625,Sanjay Gandhi NP,01-09-2025 15.00,0,34.6,0.39,Grassland,Rainy,Low
+A005,-8.441206,29.993953,Kruger Reserve,01-09-2025 15.30,0,33,0.41,Savanna,Sunny,Medium
+A027,12.795437,86.759693,Serengeti,01-09-2025 16.00,0,32.2,0.57,Savanna,Windy,Medium
+A010,-6.365046,83.120735,Nairobi Park,01-09-2025 16.30,0,29.9,0.25,Woodland,Sunny,High
+A028,18.903334,65.698153,Sanjay Gandhi NP,01-09-2025 17.00,0,30.7,0.24,Woodland,Foggy,High
+A005,-7.277304,73.852511,Periyar Reserve,01-09-2025 17.30,0,30.8,0.76,Savanna,Cloudy,Low
+A015,-7.098605,38.070229,Masai Mara,01-09-2025 18.00,1,33.8,0.74,Woodland,Cloudy,Low
+A010,25.937555,67.49501,Gir Forest,01-09-2025 18.30,1,28.1,0.81,Grassland,Sunny,High
+A025,4.384363,58.727047,Kruger Reserve,01-09-2025 19.00,0,22,0.66,Savanna,Windy,Medium
+A019,-8.067256,76.978028,Nairobi Park,01-09-2025 19.30,0,21,0.69,Grassland,Windy,Medium
+A014,29.479441,55.758409,Serengeti,01-09-2025 20.00,0,30.3,0.88,Savanna,Windy,High
+A019,6.686042,33.797341,Kruger Reserve,01-09-2025 20.30,1,19.4,0.74,Grassland,Cloudy,High
+A016,17.878141,57.980784,Gir Forest,01-09-2025 21.00,0,36.6,0.78,Savanna,Sunny,Low
+A002,18.478371,71.156329,Kruger Reserve,01-09-2025 21.30,0,20.1,0.8,Wetland,Windy,Medium
+A018,-3.700218,73.385498,Periyar Reserve,01-09-2025 22.00,0,27.8,0.64,Wetland,Cloudy,Medium
+A019,27.512445,89.922293,Masai Mara,01-09-2025 22.30,0,18.5,0.42,Woodland,Foggy,Medium
+A021,-24.519528,76.179055,Nairobi Park,01-09-2025 23.00,1,32.8,0.34,Bushland,Foggy,High
+A020,24.322555,51.987888,Periyar Reserve,01-09-2025 23.30,1,18.7,0.59,Grassland,Cloudy,High
+A029,23.214291,37.967283,Gir Forest,02-09-2025 0.00,0,33.7,0.76,Woodland,Rainy,Low
+A025,9.86218,41.128121,Serengeti,02-09-2025 0.30,1,30.1,0.27,Woodland,Foggy,High
+A010,16.576374,79.447249,Sanjay Gandhi NP,02-09-2025 1.00,0,19.4,0.61,Grassland,Sunny,High
+A028,21.640834,61.382158,Bharatpur Park,02-09-2025 1.30,0,18.3,0.8,Savanna,Rainy,Medium
+A030,23.753787,51.847711,Kaziranga,02-09-2025 2.00,0,30.2,0.31,Wetland,Rainy,High
+A007,-23.235877,87.165867,Bharatpur Park,02-09-2025 2.30,0,24.6,0.34,Woodland,Rainy,Medium
+A014,22.832409,34.215671,Sanjay Gandhi NP,02-09-2025 3.00,0,23.8,0.34,Bushland,Windy,Medium
+A009,23.802815,60.7352,Serengeti,02-09-2025 3.30,0,32.9,0.38,Bushland,Sunny,High
+A018,22.91203,85.612911,Sanjay Gandhi NP,02-09-2025 4.00,0,33.9,0.21,Savanna,Sunny,Low
+A006,-14.173989,71.514031,Kaziranga,02-09-2025 4.30,0,24.4,0.59,Grassland,Foggy,High
+A012,25.715829,81.14141,Serengeti,02-09-2025 5.00,0,20,0.8,Woodland,Windy,High
+A012,15.870659,25.351369,Gir Forest,02-09-2025 5.30,0,22.2,0.22,Woodland,Sunny,High
+A025,3.682605,59.927269,Nairobi Park,02-09-2025 6.00,0,18.6,0.74,Savanna,Rainy,Low
+A019,-22.98641,44.317801,Gir Forest,02-09-2025 6.30,0,32.7,0.67,Woodland,Cloudy,Medium
+A028,26.096476,57.703231,Periyar Reserve,02-09-2025 7.00,0,22.2,0.35,Grassland,Rainy,Medium
+A026,1.239365,25.155596,Bharatpur Park,02-09-2025 7.30,0,25.7,0.89,Bushland,Windy,Low
+A030,18.539491,55.18381,Serengeti,02-09-2025 8.00,0,33.6,0.23,Wetland,Foggy,High
+A024,20.507791,80.607651,Serengeti,02-09-2025 8.30,1,30,0.51,Wetland,Cloudy,Medium
+A011,7.958991,51.783706,Masai Mara,02-09-2025 9.00,0,28.5,0.79,Bushland,Rainy,High
+A030,-5.328758,54.965106,Masai Mara,02-09-2025 9.30,0,23.7,0.32,Woodland,Rainy,High
+A009,-11.857493,69.775893,Kruger Reserve,02-09-2025 10.00,0,33.3,0.6,Grassland,Cloudy,Medium
+A029,27.579006,78.616553,Bharatpur Park,02-09-2025 10.30,0,32.3,0.48,Woodland,Foggy,Low
+A029,-21.840854,27.684845,Kruger Reserve,02-09-2025 11.00,1,37.1,0.4,Woodland,Foggy,Medium
+A002,-7.144118,49.282866,Serengeti,02-09-2025 11.30,0,33.9,0.3,Woodland,Cloudy,Medium
+A018,29.830179,79.244526,Bharatpur Park,02-09-2025 12.00,0,35.1,0.63,Woodland,Foggy,Medium
+A011,16.242487,56.950831,Kruger Reserve,02-09-2025 12.30,0,33.1,0.74,Bushland,Foggy,High
+A011,20.280546,34.96768,Serengeti,02-09-2025 13.00,0,20.2,0.51,Wetland,Cloudy,Medium
+A020,7.947471,73.189498,Sanjay Gandhi NP,02-09-2025 13.30,0,21.8,0.36,Bushland,Rainy,Medium
+A030,27.617575,63.522865,Nairobi Park,02-09-2025 14.00,0,19.2,0.63,Grassland,Cloudy,Medium
+A017,22.576846,72.565829,Kruger Reserve,02-09-2025 14.30,0,32.3,0.53,Bushland,Sunny,High
+A018,20.395977,55.446837,Sanjay Gandhi NP,02-09-2025 15.00,1,26.9,0.85,Grassland,Foggy,Low
+A023,23.504613,37.755373,Dudhwa Forest,02-09-2025 15.30,0,31.5,0.31,Savanna,Foggy,Low
+A025,-13.3247,58.48745,Nairobi Park,02-09-2025 16.00,1,26.9,0.39,Savanna,Cloudy,Low
+A003,-25.061343,78.097382,Dudhwa Forest,02-09-2025 16.30,0,24.1,0.78,Grassland,Foggy,Low
+A007,-5.614053,45.629018,Kruger Reserve,02-09-2025 17.00,0,33.5,0.44,Woodland,Cloudy,Medium
+A016,-13.024181,86.508368,Periyar Reserve,02-09-2025 17.30,1,34.4,0.81,Bushland,Windy,Medium
+A009,14.758078,83.070263,Periyar Reserve,02-09-2025 18.00,1,35.9,0.9,Wetland,Rainy,Medium
+A008,15.694299,75.571578,Kaziranga,02-09-2025 18.30,0,34.3,0.7,Bushland,Foggy,High
+A011,-15.896389,47.645015,Dudhwa Forest,02-09-2025 19.00,0,18.8,0.74,Grassland,Sunny,High
+A001,14.558366,66.333061,Nairobi Park,02-09-2025 19.30,0,26.6,0.25,Wetland,Cloudy,Medium
+A007,-4.009786,89.13324,Kruger Reserve,02-09-2025 20.00,0,24.9,0.87,Wetland,Windy,Medium
+A003,-0.82545,52.212665,Serengeti,02-09-2025 20.30,0,20.8,0.89,Wetland,Windy,High
+A029,-7.14152,72.690662,Serengeti,02-09-2025 21.00,0,26.3,0.82,Woodland,Windy,Low
+A026,-4.321983,26.195752,Kruger Reserve,02-09-2025 21.30,0,31.8,0.4,Wetland,Sunny,Low
+A030,-28.451846,70.844007,Sanjay Gandhi NP,02-09-2025 22.00,1,21.1,0.79,Woodland,Cloudy,Low
+A017,22.562489,33.706905,Sanjay Gandhi NP,02-09-2025 22.30,0,33.4,0.32,Woodland,Windy,Medium
+A012,-28.777848,81.82254,Nairobi Park,02-09-2025 23.00,1,19.7,0.36,Bushland,Rainy,High
+A028,-13.961063,42.76398,Kruger Reserve,02-09-2025 23.30,1,35.7,0.43,Grassland,Cloudy,Low
+A003,2.55211,84.405112,Bharatpur Park,03-09-2025 0.00,0,19.9,0.79,Wetland,Foggy,High
+A016,-12.721627,33.504468,Dudhwa Forest,03-09-2025 0.30,0,21.7,0.71,Grassland,Foggy,High
+A001,17.819201,71.40459,Nairobi Park,03-09-2025 1.00,0,37.9,0.66,Savanna,Windy,Medium
+A017,18.14802,45.83914,Gir Forest,03-09-2025 1.30,0,34,0.51,Grassland,Rainy,Medium
+A013,23.183063,25.383338,Serengeti,03-09-2025 2.00,0,18.4,0.44,Wetland,Foggy,Medium
+A019,18.568495,60.362246,Sanjay Gandhi NP,03-09-2025 2.30,0,26.5,0.8,Savanna,Foggy,High
+A030,5.350626,32.718752,Kruger Reserve,03-09-2025 3.00,1,20.4,0.39,Savanna,Foggy,High
+A023,26.728639,39.83235,Masai Mara,03-09-2025 3.30,0,27.2,0.4,Wetland,Sunny,Medium
+A024,-28.243758,50.683777,Gir Forest,03-09-2025 4.00,0,32,0.7,Woodland,Foggy,Medium
+A006,2.034805,51.582351,Kruger Reserve,03-09-2025 4.30,0,31.9,0.28,Grassland,Rainy,Low
+A024,-29.942545,64.268653,Dudhwa Forest,03-09-2025 5.00,1,37.1,0.71,Savanna,Cloudy,High
+A026,9.781646,30.876232,Kruger Reserve,03-09-2025 5.30,1,37.4,0.26,Bushland,Foggy,Medium
+A016,-26.237767,78.219089,Nairobi Park,03-09-2025 6.00,0,24.8,0.22,Bushland,Cloudy,Low
+A027,21.792226,75.869868,Kruger Reserve,03-09-2025 6.30,1,26.6,0.69,Savanna,Windy,Low
+A010,-29.421364,35.653359,Kruger Reserve,03-09-2025 7.00,0,29.9,0.44,Wetland,Sunny,Medium
+A010,-9.855836,39.268711,Serengeti,03-09-2025 7.30,0,34.9,0.42,Savanna,Foggy,High
+A021,0.332844,69.249835,Dudhwa Forest,03-09-2025 8.00,0,25.3,0.59,Bushland,Sunny,Low
+A002,3.572462,85.483647,Kaziranga,03-09-2025 8.30,0,20.9,0.6,Bushland,Sunny,Medium
+A029,15.995141,80.650296,Gir Forest,03-09-2025 9.00,0,18.1,0.67,Savanna,Sunny,Low
+A020,-22.419634,33.75773,Serengeti,03-09-2025 9.30,0,31.3,0.4,Wetland,Sunny,Low
+A030,-28.22934,69.772365,Bharatpur Park,03-09-2025 10.00,0,24.4,0.24,Grassland,Windy,Low
+A022,20.621614,69.126196,Kaziranga,03-09-2025 10.30,0,33.3,0.86,Woodland,Rainy,Medium
+A030,20.762471,37.317449,Gir Forest,03-09-2025 11.00,1,31.8,0.51,Grassland,Rainy,Medium
+A014,-18.380811,29.412781,Masai Mara,03-09-2025 11.30,0,23.5,0.26,Savanna,Rainy,High
+A020,12.17019,34.679526,Dudhwa Forest,03-09-2025 12.00,0,25.8,0.56,Wetland,Sunny,Medium
+A001,-0.484234,29.161065,Nairobi Park,03-09-2025 12.30,0,28.4,0.79,Wetland,Cloudy,Low
+A014,7.825043,78.131557,Sanjay Gandhi NP,03-09-2025 13.00,0,21.1,0.74,Savanna,Sunny,Medium
+A002,-14.022804,34.49208,Masai Mara,03-09-2025 13.30,0,29.9,0.27,Grassland,Windy,High
+A021,-2.579745,44.161968,Serengeti,03-09-2025 14.00,0,30.2,0.63,Woodland,Windy,High
+A006,-2.353279,84.377743,Dudhwa Forest,03-09-2025 14.30,0,36.1,0.58,Wetland,Cloudy,Low
+A020,25.778138,79.61762,Gir Forest,03-09-2025 15.00,0,22.1,0.85,Savanna,Rainy,Low
+A008,7.578285,74.066022,Kaziranga,03-09-2025 15.30,0,36,0.85,Wetland,Windy,Low
+A026,-26.294477,72.406501,Periyar Reserve,03-09-2025 16.00,0,26.1,0.3,Woodland,Cloudy,High
+A017,-17.703769,32.794356,Nairobi Park,03-09-2025 16.30,1,37,0.32,Woodland,Cloudy,Low
+A013,22.211819,63.016841,Serengeti,03-09-2025 17.00,1,24.2,0.66,Wetland,Foggy,High
+A018,8.29534,55.129116,Dudhwa Forest,03-09-2025 17.30,0,29.8,0.41,Savanna,Windy,Medium
+A014,-16.267737,32.709749,Serengeti,03-09-2025 18.00,1,33.7,0.38,Bushland,Foggy,Medium
+A022,-21.192929,64.903534,Kruger Reserve,03-09-2025 18.30,0,36.9,0.45,Savanna,Cloudy,Medium
+A025,-18.948857,60.821422,Masai Mara,03-09-2025 19.00,1,27.9,0.6,Savanna,Rainy,Low
+A029,-23.458022,42.434424,Dudhwa Forest,03-09-2025 19.30,0,23.4,0.47,Grassland,Sunny,Low
+A030,10.253727,39.613133,Gir Forest,03-09-2025 20.00,1,27.1,0.33,Grassland,Rainy,Low
+A029,11.618902,64.194965,Nairobi Park,03-09-2025 20.30,0,32.4,0.45,Bushland,Foggy,Low
+A026,27.050476,43.244262,Gir Forest,03-09-2025 21.00,0,26.9,0.28,Bushland,Cloudy,Medium
+A002,-8.32528,43.579869,Kaziranga,03-09-2025 21.30,1,27.5,0.79,Savanna,Cloudy,Low
+A017,17.129497,86.991291,Masai Mara,03-09-2025 22.00,0,36.3,0.72,Bushland,Windy,High
+A014,19.39947,89.058833,Gir Forest,03-09-2025 22.30,0,28.5,0.68,Grassland,Foggy,Low
+A025,-27.626363,58.467054,Masai Mara,03-09-2025 23.00,0,32.6,0.32,Wetland,Sunny,Medium
+A024,-1.0954,25.757256,Masai Mara,03-09-2025 23.30,1,21.4,0.82,Bushland,Sunny,High
+A020,12.302314,60.84708,Kruger Reserve,04-09-2025 0.00,1,37.3,0.35,Woodland,Cloudy,High
+A026,-2.329635,62.394263,Bharatpur Park,04-09-2025 0.30,0,29.2,0.78,Wetland,Sunny,High
+A012,-17.988325,61.846932,Kaziranga,04-09-2025 1.00,1,27.3,0.34,Woodland,Rainy,High
+A005,-12.838929,55.442335,Bharatpur Park,04-09-2025 1.30,1,33.1,0.21,Woodland,Windy,High
+A013,10.258612,55.630739,Bharatpur Park,04-09-2025 2.00,0,32,0.39,Bushland,Sunny,Medium
+A023,25.35577,27.061426,Sanjay Gandhi NP,04-09-2025 2.30,0,31.5,0.43,Grassland,Rainy,Low
+A016,18.59721,27.623609,Masai Mara,04-09-2025 3.00,0,33.1,0.47,Grassland,Rainy,Low
+A021,4.452364,30.091544,Bharatpur Park,04-09-2025 3.30,0,38,0.28,Wetland,Windy,Medium
+A030,-9.497404,31.810367,Bharatpur Park,04-09-2025 4.00,1,31.9,0.24,Grassland,Sunny,Low
+A029,-19.42208,62.7856,Bharatpur Park,04-09-2025 4.30,0,21,0.73,Savanna,Foggy,Low
+A014,-21.010872,85.602199,Kruger Reserve,04-09-2025 5.00,0,29.2,0.27,Woodland,Foggy,Low
+A019,-29.172028,54.055801,Gir Forest,04-09-2025 5.30,0,33.7,0.38,Woodland,Cloudy,Medium
+A027,1.109717,56.966201,Bharatpur Park,04-09-2025 6.00,0,36,0.49,Savanna,Windy,Low
+A026,-22.012296,36.815305,Kruger Reserve,04-09-2025 6.30,0,30.4,0.32,Woodland,Rainy,Medium
+A027,-5.01089,31.50541,Dudhwa Forest,04-09-2025 7.00,0,36.2,0.36,Bushland,Rainy,High
+A001,18.056869,64.705809,Kruger Reserve,04-09-2025 7.30,0,19.5,0.75,Savanna,Sunny,Medium
+A017,4.367793,62.292699,Periyar Reserve,04-09-2025 8.00,0,24.6,0.64,Wetland,Rainy,Low
+A003,7.749301,83.644002,Bharatpur Park,04-09-2025 8.30,0,18.3,0.45,Wetland,Sunny,High
+A028,8.474598,54.948645,Bharatpur Park,04-09-2025 9.00,0,26.4,0.64,Wetland,Windy,Medium
+A026,-25.170368,84.177078,Periyar Reserve,04-09-2025 9.30,1,25.7,0.83,Bushland,Rainy,Medium
+A022,-14.234608,45.230558,Sanjay Gandhi NP,04-09-2025 10.00,0,28,0.57,Grassland,Cloudy,Low
+A018,18.594706,61.382551,Dudhwa Forest,04-09-2025 10.30,0,31.7,0.21,Grassland,Foggy,Medium
+A021,-28.933568,47.19487,Bharatpur Park,04-09-2025 11.00,0,25.7,0.61,Grassland,Windy,Low
+A014,-27.003535,57.144693,Nairobi Park,04-09-2025 11.30,0,32.1,0.79,Savanna,Cloudy,Medium
+A013,3.075752,54.503907,Serengeti,04-09-2025 12.00,0,32.9,0.54,Woodland,Windy,Medium
+A028,-5.1529,73.196721,Periyar Reserve,04-09-2025 12.30,0,23.5,0.45,Grassland,Sunny,High
+A026,-23.753379,68.365722,Kruger Reserve,04-09-2025 13.00,1,24.4,0.34,Bushland,Windy,High
+A005,18.800422,89.591661,Dudhwa Forest,04-09-2025 13.30,1,20.9,0.81,Woodland,Sunny,Low
+A009,6.504422,84.348722,Kaziranga,04-09-2025 14.00,0,31.1,0.2,Woodland,Windy,High
+A030,-2.13355,87.513483,Periyar Reserve,04-09-2025 14.30,0,33.7,0.77,Woodland,Foggy,Medium
+A029,1.694041,34.301596,Nairobi Park,04-09-2025 15.00,0,22.4,0.25,Savanna,Foggy,Low
+A027,-27.275958,70.885107,Masai Mara,04-09-2025 15.30,0,23.4,0.89,Grassland,Sunny,Medium
+A022,28.575019,78.250599,Masai Mara,04-09-2025 16.00,1,18.6,0.78,Savanna,Foggy,High
+A002,-23.631873,86.473699,Gir Forest,04-09-2025 16.30,0,20.5,0.59,Wetland,Sunny,Medium
+A005,-25.61884,58.010727,Kruger Reserve,04-09-2025 17.00,0,29.5,0.43,Wetland,Rainy,Low
+A012,-20.125621,42.22922,Masai Mara,04-09-2025 17.30,1,37.8,0.67,Wetland,Sunny,Medium
+A008,-15.492488,60.2739,Dudhwa Forest,04-09-2025 18.00,1,19.6,0.56,Bushland,Cloudy,High
+A015,14.914134,59.739651,Bharatpur Park,04-09-2025 18.30,1,21.4,0.81,Bushland,Rainy,High
+A011,23.279314,86.414269,Periyar Reserve,04-09-2025 19.00,1,21.7,0.44,Bushland,Windy,Low
+A015,13.712046,79.372861,Sanjay Gandhi NP,04-09-2025 19.30,0,29.9,0.56,Wetland,Foggy,Low
+A025,-20.053824,76.97959,Bharatpur Park,04-09-2025 20.00,0,37.3,0.85,Woodland,Windy,Medium
+A022,27.522288,55.131149,Kaziranga,04-09-2025 20.30,1,24.8,0.84,Bushland,Rainy,Low
+A015,13.953223,61.715782,Gir Forest,04-09-2025 21.00,0,23,0.49,Bushland,Rainy,Low
+A012,-4.994001,42.983524,Periyar Reserve,04-09-2025 21.30,1,22.5,0.65,Savanna,Sunny,Low
+A009,-25.599888,35.396873,Bharatpur Park,04-09-2025 22.00,0,37.3,0.54,Savanna,Windy,High
+A025,22.638987,44.656767,Gir Forest,04-09-2025 22.30,0,33.9,0.65,Savanna,Windy,High
+A028,-26.537672,38.152013,Nairobi Park,04-09-2025 23.00,0,35.5,0.77,Savanna,Foggy,Low
+A008,-2.400442,31.99031,Kaziranga,04-09-2025 23.30,0,19.1,0.82,Wetland,Cloudy,Low
+A006,19.233874,45.62324,Dudhwa Forest,05-09-2025 0.00,1,22,0.4,Wetland,Foggy,Low
+A022,-4.599842,38.237207,Sanjay Gandhi NP,05-09-2025 0.30,0,33.2,0.8,Woodland,Windy,High
+A005,-6.418429,58.967396,Kruger Reserve,05-09-2025 1.00,0,26.9,0.26,Savanna,Windy,High
+A016,-22.926213,83.505014,Periyar Reserve,05-09-2025 1.30,0,25.2,0.31,Savanna,Rainy,Low
+A008,29.300732,53.17258,Sanjay Gandhi NP,05-09-2025 2.00,1,24.7,0.25,Woodland,Cloudy,Medium
+A024,26.708061,79.019298,Bharatpur Park,05-09-2025 2.30,0,36.6,0.82,Grassland,Foggy,Low
+A015,3.031358,41.871062,Kruger Reserve,05-09-2025 3.00,1,26.3,0.27,Bushland,Cloudy,High
+A024,-0.882201,44.808313,Sanjay Gandhi NP,05-09-2025 3.30,0,37.2,0.47,Woodland,Foggy,High
+A027,22.425067,36.264182,Periyar Reserve,05-09-2025 4.00,1,18.6,0.61,Wetland,Foggy,Medium
+A029,29.157523,44.154807,Gir Forest,05-09-2025 4.30,0,22.1,0.76,Grassland,Cloudy,Medium
+A006,-13.288021,49.613208,Sanjay Gandhi NP,05-09-2025 5.00,0,34.3,0.26,Grassland,Cloudy,Medium
+A013,-22.411298,58.854221,Nairobi Park,05-09-2025 5.30,0,27.6,0.41,Bushland,Windy,Medium
+A007,1.705305,62.084909,Sanjay Gandhi NP,05-09-2025 6.00,1,26.3,0.56,Woodland,Rainy,Low
+A028,19.774793,60.186593,Bharatpur Park,05-09-2025 6.30,1,34,0.23,Wetland,Foggy,High
+A019,20.739102,39.235603,Nairobi Park,05-09-2025 7.00,0,37.6,0.74,Grassland,Windy,Medium
+A024,16.912011,46.488757,Kaziranga,05-09-2025 7.30,1,37.4,0.88,Savanna,Sunny,Medium
+A005,-24.529931,42.186941,Serengeti,05-09-2025 8.00,1,20.8,0.51,Bushland,Sunny,Medium
+A025,-24.898127,52.497616,Kaziranga,05-09-2025 8.30,1,18.2,0.59,Savanna,Rainy,Medium
+A001,-1.278684,55.866276,Kaziranga,05-09-2025 9.00,1,20.7,0.35,Savanna,Windy,Low
+A001,28.346197,78.474484,Serengeti,05-09-2025 9.30,1,37.4,0.71,Grassland,Foggy,Medium
